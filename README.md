@@ -8,6 +8,10 @@ There are 6 tables contain data needed for the analysis, such as products table,
 + **Employees**: Stores information about employees working at TechCorp.
 + **Support tickets**: Stores information about support tickets submitted by customers.
 
+# SQL Queries and Techniques
++ ***Data Manipulation Language (DML)**: some SQL DML fuctions used in this analysis includes grouping data using GROUP BY, filtering data using some condition functions (WHERE, BETWEEN, LIKE, AND/OR, DISTINCT, IN, IS NULL), some aggregate functions (SUM and AVG).
++ ***Data Definition Language (DML)**: Creating and using CTEs in SQL queries.
+
 ## Let's get to the analysis!
 ### Identify the top 3 customers based on the total order amount
 ```js
@@ -124,4 +128,4 @@ WHERE
 + **Customer Loyalty**: Retain loyal customers, especially the top 3 such as John Doe, Jane Smith, and Michael Brown. This can be achieved by offering loyalty programs, discounts, or other incentives that can boost sales. Additionally, intensify promotions for customers with the lowest average purchases, such as offering bonuses for specific purchases.
 + **Product Efficiency**: Boost promotions for wireless earphones to increase sales. Promotions can include campaigns or content specifically focused on the product. Another approach is bundling wireless earphones with other high-selling products to increase their exposure.
 + **Employee Improvement Program**: Based on the analysis, Alice Williams is the employee with the best performance, as seen from the support tickets she has resolved. Therefore, it is important for Alice to receive recognition for her performance. Besides that, to improve the performance of other employees, training programs can be implemented to support the company's sales performance.
-+ **Sales Improvment**: Design a strategy to increase sales in the upcoming weeks of July. This can be achieved by combining information from total sales and products with relatively high prices to boost revenue. For example, in the upcoming week, products that should be highlighted are smartphones and laptops. Therefore, both products could be promoted through social media campaigns with higher frequency than before. Engage copywriting and design as attractively as possible to appeal to customers from various demographics, especially Gen Z or Gen Y who are very familiar to smartphones and laptops.
++ **Sales Improvment**: Design a strategy to increase sales in the upcoming weeks of July. This can be achieved by combining information from total sales and products with relatively high prices to boost revenue. For example, in the upcoming week, products that should be highlighted are smartphones and laptops. Therefore, both products could be promoted through social media campaigns with higher frequency than before. Engage copywriting and design as attractively as possible to appeal to customers from various demographics, especially Gen Z or Gen Y who are very familiar to gadgets.
