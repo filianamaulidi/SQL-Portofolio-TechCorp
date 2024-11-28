@@ -8,7 +8,7 @@ There are 6 tables contain data needed for the analysis, such as products table,
 + **Employees**: Stores information about employees working at TechCorp.
 + **Support tickets**: Stores information about support tickets submitted by customers.
 
-# SQL Queries and Techniques
+## SQL Queries and Techniques
 + ***Data Manipulation Language (DML)**: some SQL DML fuctions used in this analysis includes grouping data using GROUP BY, filtering data using some condition functions (WHERE, BETWEEN, LIKE, AND/OR, DISTINCT, IN, IS NULL), some aggregate functions (SUM and AVG).
 + ***Data Definition Language (DML)**: Creating and using CTEs in SQL queries.
 
